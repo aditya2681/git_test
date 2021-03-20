@@ -1,3 +1,8 @@
 Happiness is tobe earned. It doesn't come as a swiggy order.
+<<<<<<< HEAD
 So try and try to u r goal is achievedgit
 Conflicted line 1
+=======
+So try and try to u r goal is achieved
+this is conflict line 2
+>>>>>>> secondbranch
